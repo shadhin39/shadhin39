@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at **IQVIA**
 
-- 👨‍💻 All of my projects are available at [https://nazmusshakibshadin.github.io/generic3.html](Projects)
+- 👨‍💻 All of my projects are available at [Projects](https://nazmusshakibshadin.github.io/generic3.html)
 
 - 📝 I regularly write articles on [https://nazmusshakibshadin.github.io/](https://nazmusshakibshadin.github.io/)
 
