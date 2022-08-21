@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shadhin.aust.cse@gmail.com, nazmus.shakibshadin@iqvia.com**
 
-- 📄 Know about my experiences [https://nazmusshakibshadin.github.io/generic4.html](https://nazmusshakibshadin.github.io/generic4.html)
+- 📄 Know about my experiences [Curriculum Vitae](https://nazmusshakibshadin.github.io/generic4.html)
 
 - ⚡ Fun fact **I think less and eat more.**
 
