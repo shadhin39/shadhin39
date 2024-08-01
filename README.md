@@ -11,9 +11,9 @@
 
 - 📝 I regularly write articles on [https://nazmusshakibshadin.github.io/](https://nazmusshakibshadin.github.io/)
 
-- 💬 Ask me about **Artificial Interlligence, Machine Learning, Deep Learning, Transfer Learning, Power Script, .Net, Typescript, JavaScript, Web Services**
+- 💬 Ask me about **Federated Learning, Artificial Interlligence, Machine Learning, Deep Learning, Transfer Learning, Power Script, .Net, Typescript, JavaScript, Web Services**
 
-- 📫 How to reach me **shadhin.aust.cse@gmail.com, nazmus.shakibshadin@iqvia.com**
+- 📫 How to reach me **shadhin.aust.cse@gmail.com, nshadin@students.kennesaw.edu**
 
 - 📄 Know about my experiences [Curriculum Vitae](https://nazmusshakibshadin.github.io/generic4.html)
 
