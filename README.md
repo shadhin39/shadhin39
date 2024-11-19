@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shadhin39" alt="shadhin39" /></a> </p>
 
-- 🔭 I’m currently working at **IQVIA**
+- 🔭 I’m currently working as **Graduate Research Assistant** on the AIPO Lab at KSU. I was a Software Development Engineer at **IQVIA**
 
 - 👨‍💻 All of my projects are available at [Projects](https://nazmusshakibshadin.github.io/generic3.html)
 
