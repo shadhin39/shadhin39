@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shadhin39" alt="shadhin39" /></a> </p>
 
-- 🔭 I’m currently working as **Graduate Research Assistant** on the AIPO Lab at KSU. I was a Software Development Engineer at **IQVIA**
+- 🔭 I’m currently pursuing my PhD in **Computer Science** and working as a **Graduate Research Assistant** on the AIPO Lab at KSU. I was a Software Development Engineer at **IQVIA**
 
 - 👨‍💻 All of my projects are available at [Projects](https://nazmusshakibshadin.github.io/generic3.html)
 
 - 📝 I regularly write articles on [https://nazmusshakibshadin.github.io/](https://nazmusshakibshadin.github.io/)
 
-- 💬 Ask me about **Federated Learning, Artificial intelligence, Machine Learning, Deep Learning, Transfer Learning, Power Script, .Net, Typescript, JavaScript, Web Services**
+- 💬 Ask me about **Federated Learning, Differential Privacy, Knowledge Distillation, Explainable AI, Artificial intelligence, Machine Learning, Deep Learning, Transfer Learning, Power Script, .NET, Typescript, JavaScript, Web Services**
 
 - 📫 How to reach me **shadhin.aust.cse@gmail.com, nshadin@students.kennesaw.edu**
 
